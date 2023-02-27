@@ -73,7 +73,7 @@ h1, h2, h3, h4, h5, h6 {
   z-index: 9997;
   transition: all 0.5s;
   padding: 0 15px;
-  background: #040b14;
+  background: #56cfff;
   overflow-y: auto;
 }
 
@@ -81,7 +81,7 @@ h1, h2, h3, h4, h5, h6 {
   margin: 15px auto;
   display: block;
   width: 120px;
-  border: 8px solid #2c2f3f;
+  border: 8px solid #bcfdbc;
 }
 
 #header .profile h1 {
@@ -155,7 +155,7 @@ h1, h2, h3, h4, h5, h6 {
 .nav-menu a, .nav-menu a:focus {
   display: flex;
   align-items: center;
-  color: #a8a9b4;
+  color: #272626;
   padding: 12px 15px;
   margin-bottom: 8px;
   transition: 0.3s;
@@ -165,7 +165,7 @@ h1, h2, h3, h4, h5, h6 {
 .nav-menu a i, .nav-menu a:focus i {
   font-size: 24px;
   padding-right: 8px;
-  color: #6f7180;
+  color: #dee1fa;
 }
 
 .nav-menu a:hover, .nav-menu .active, .nav-menu .active:focus, .nav-menu li:hover > a {
